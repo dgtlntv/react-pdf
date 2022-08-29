@@ -1,4 +1,4 @@
-# @react-pdf/primitives
+# @react-18-pdf/primitives
 
 ## 3.0.1
 

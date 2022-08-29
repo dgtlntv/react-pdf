@@ -1,4 +1,4 @@
-# @react-pdf/pdfkit
+# @react-18-pdf/pdfkit
 
 ## 2.3.0
 
@@ -19,7 +19,7 @@
 - [#1865](https://github.com/diegomura/react-pdf/pull/1865) [`24f5c77`](https://github.com/diegomura/react-pdf/commit/24f5c77706e12dbab45053cb704a2fe7cf60eb53) Thanks [@diegomura](https://github.com/diegomura)! - feat: add background color and border with Note support
 
 - Updated dependencies [[`89b8059`](https://github.com/diegomura/react-pdf/commit/89b8059185f917531a56b3424223e8656ffed8f7)]:
-  - @react-pdf/fontkit@2.1.1
+  - @react-18-pdf/fontkit@2.1.1
 
 ## 2.2.0
 
@@ -44,5 +44,5 @@
 - [#1607](https://github.com/diegomura/react-pdf/pull/1607) [`a592e99`](https://github.com/diegomura/react-pdf/commit/a592e99f7df7481697582c2a12f31ce7f9559c66) Thanks [@jeetiss](https://github.com/jeetiss)! - replaced `crypto-js` with `crypto-js/md5` to reduce bundle size
 
 - Updated dependencies [[`3217a89`](https://github.com/diegomura/react-pdf/commit/3217a892e92ff98e92b6c7ea6e3244d403f679b6), [`4c5d527`](https://github.com/diegomura/react-pdf/commit/4c5d52721d29d843f1d09c3fd74370832429f70e), [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca), [`ccf3bf2`](https://github.com/diegomura/react-pdf/commit/ccf3bf22867a9bd49668cdd3543ec32492a40e4b)]:
-  - @react-pdf/fontkit@2.1.0
-  - @react-pdf/png-js@2.1.0
+  - @react-18-pdf/fontkit@2.1.0
+  - @react-18-pdf/png-js@2.1.0

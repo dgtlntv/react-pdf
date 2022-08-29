@@ -1,6 +1,6 @@
 {
-  "name": "@react-pdf/fns",
-  "version": "1.0.0",
+  "name": "@react-18-pdf/fns",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "React-pdf helper functions",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",

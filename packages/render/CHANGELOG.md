@@ -1,4 +1,4 @@
-# @react-pdf/render
+# @react-18-pdf/render
 
 ## 3.1.0
 
@@ -25,7 +25,7 @@
 - [#1859](https://github.com/diegomura/react-pdf/pull/1859) [`810f459`](https://github.com/diegomura/react-pdf/commit/810f45904e9abeaff5583ed4ceb6d77e123bbaea) Thanks [@diegomura](https://github.com/diegomura)! - feat: build render package as ES module
 
 - Updated dependencies [[`1411d16`](https://github.com/diegomura/react-pdf/commit/1411d162e04ca237bad93729695c363fdf4bdbeb), [`4fadb48`](https://github.com/diegomura/react-pdf/commit/4fadb48983d7269452f89f80c7e341ece859aaee), [`ce8762f`](https://github.com/diegomura/react-pdf/commit/ce8762f6de5c796e69ec5a225c7f3ff9c619a960), [`5d2c308`](https://github.com/diegomura/react-pdf/commit/5d2c3088cf438a8abf1038b14a21117fecf59d57)]:
-  - @react-pdf/types@2.1.0
+  - @react-18-pdf/types@2.1.0
 
 ## 3.0.0
 
@@ -40,10 +40,10 @@
 * [#1838](https://github.com/diegomura/react-pdf/pull/1838) [`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de) Thanks [@diegomura](https://github.com/diegomura)! - feat: create fns package
 
 * Updated dependencies [[`e938df0`](https://github.com/diegomura/react-pdf/commit/e938df0857642707b10b7f65f17ed22dc394ac1b), [`9bdb5c9`](https://github.com/diegomura/react-pdf/commit/9bdb5c934a822340754cd4c892d399f91f6218de), [`fe0f214`](https://github.com/diegomura/react-pdf/commit/fe0f214dbbf2f632b852ebfe65f886ecc4dd6953), [`9a2b935`](https://github.com/diegomura/react-pdf/commit/9a2b935cfe173f80425ed87d9f474da271c050d2)]:
-  - @react-pdf/primitives@3.0.0
-  - @react-pdf/fns@1.0.0
-  - @react-pdf/textkit@3.0.0
-  - @react-pdf/types@2.0.9
+  - @react-18-pdf/primitives@3.0.0
+  - @react-18-pdf/fns@1.0.0
+  - @react-18-pdf/textkit@3.0.0
+  - @react-18-pdf/types@2.0.9
 
 ## 2.1.0
 
@@ -58,6 +58,6 @@
 * [#1581](https://github.com/diegomura/react-pdf/pull/1581) [`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca) Thanks [@jeetiss](https://github.com/jeetiss)! - added changelog with changesets
 
 * Updated dependencies [[`04449ab`](https://github.com/diegomura/react-pdf/commit/04449ab352db0cca2155024dd3e8c690e42193ca), [`5d2d688`](https://github.com/diegomura/react-pdf/commit/5d2d688e18c830bb96c6e08446437d29f9f9c65f), [`ccf3bf2`](https://github.com/diegomura/react-pdf/commit/ccf3bf22867a9bd49668cdd3543ec32492a40e4b)]:
-  - @react-pdf/primitives@2.0.2
-  - @react-pdf/textkit@2.1.0
-  - @react-pdf/types@2.0.8
+  - @react-18-pdf/primitives@2.0.2
+  - @react-18-pdf/textkit@2.1.0
+  - @react-18-pdf/types@2.0.8

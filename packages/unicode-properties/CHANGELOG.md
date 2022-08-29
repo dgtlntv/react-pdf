@@ -1,4 +1,4 @@
-# @react-pdf/unicode-properties
+# @react-18-pdf/unicode-properties
 
 ## 2.6.0
 

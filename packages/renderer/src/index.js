@@ -1,8 +1,8 @@
 import BlobStream from 'blob-stream';
-import FontStore from '@react-pdf/font';
-import renderPDF from '@react-pdf/render';
-import PDFDocument from '@react-pdf/pdfkit';
-import layoutDocument from '@react-pdf/layout';
+import FontStore from '@react-18-pdf/font';
+import renderPDF from '@react-18-pdf/render';
+import PDFDocument from '@react-18-pdf/pdfkit';
+import layoutDocument from '@react-18-pdf/layout';
 
 import createRenderer from './renderer';
 import { version } from '../package.json';

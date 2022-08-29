@@ -1,4 +1,4 @@
-# @react-pdf/png-js
+# @react-18-pdf/png-js
 
 ## 2.1.0
 ### Minor Changes

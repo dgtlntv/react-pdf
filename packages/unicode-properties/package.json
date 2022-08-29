@@ -1,6 +1,6 @@
 {
-  "name": "@react-pdf/unicode-properties",
-  "version": "2.6.0",
+  "name": "@react-18-pdf/unicode-properties",
+  "version": "2.6.1",
   "license": "MIT",
   "description": "Provides fast access to unicode character properties",
   "author": "Devon Govett <devongovett@gmail.com>",

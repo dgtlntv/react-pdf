@@ -1,4 +1,4 @@
-import { isNil } from '@react-pdf/fns';
+import { isNil } from '@react-18-pdf/fns';
 
 import copyRect from '../rect/copy';
 import cropRect from '../rect/crop';

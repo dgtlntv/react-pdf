@@ -1,4 +1,4 @@
-import { compose } from '@react-pdf/fns';
+import { compose } from '@react-18-pdf/fns';
 
 import expandStyles from './expand';
 import flattenStyles from './flatten';

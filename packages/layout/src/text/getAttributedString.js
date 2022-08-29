@@ -1,5 +1,5 @@
-import * as P from '@react-pdf/primitives';
-import fromFragments from '@react-pdf/textkit/lib/attributedString/fromFragments';
+import * as P from '@react-18-pdf/primitives';
+import fromFragments from '@react-18-pdf/textkit/lib/attributedString/fromFragments';
 
 import { embedEmojis } from './emoji';
 import ignoreChars from './ignoreChars';

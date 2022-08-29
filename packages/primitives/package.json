@@ -1,6 +1,6 @@
 {
-  "name": "@react-pdf/primitives",
-  "version": "3.0.1",
+  "name": "@react-18-pdf/primitives",
+  "version": "3.0.2",
   "license": "MIT",
   "description": "Define uninitialized elements",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",

@@ -1,4 +1,4 @@
-import { last } from '@react-pdf/fns';
+import { last } from '@react-18-pdf/fns';
 
 /**
  * Get attributed string end value

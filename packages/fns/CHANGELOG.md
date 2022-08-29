@@ -1,4 +1,4 @@
-# @react-pdf/fns
+# @react-18-pdf/fns
 
 ## 1.0.0
 ### Major Changes

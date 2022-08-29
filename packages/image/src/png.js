@@ -1,4 +1,4 @@
-import PNG from '@react-pdf/png-js';
+import PNG from '@react-18-pdf/png-js';
 
 PNG.isValid = function(data) {
   try {

@@ -1,5 +1,5 @@
-import runWidth from '@react-pdf/textkit/lib/run/advanceWidth';
-import lineWidth from '@react-pdf/textkit/lib/attributedString/advanceWidth';
+import runWidth from '@react-18-pdf/textkit/lib/run/advanceWidth';
+import lineWidth from '@react-18-pdf/textkit/lib/attributedString/advanceWidth';
 
 import renderGlyphs from './renderGlyphs';
 
